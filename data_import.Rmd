@@ -67,3 +67,12 @@ litters_base
 litters_readr
 ```
 
+## Exporting data
+
+Export the mlb sub_table.
+
+```{r}
+write.csv(mlb_df, "./data/mlb_subtable.csv")
+```
+
+
