@@ -1,0 +1,10 @@
+---
+title: "Data Tidy"
+output: github_document
+---
+
+
+```{r setup}
+library(tidyverse)
+```
+
